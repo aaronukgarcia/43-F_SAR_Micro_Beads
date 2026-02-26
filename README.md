@@ -28,6 +28,7 @@ Narrow-band spectral micro-beads could provide a spectrally selective SAR marker
 ## Document
 
 📄 **[43-F_SAR_Micro_Beads_Formatted.docx](43-F_SAR_Micro_Beads_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-F_SAR_Micro_Beads_Formatted.pdf](43-F_SAR_Micro_Beads_Formatted.pdf)** — PDF export
 
 ## Author
 
